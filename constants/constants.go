@@ -1,0 +1,6 @@
+package constants
+
+const (
+	DB_CONNECTION_STRING string = "DB_CONNECTION_STRING"
+	DECODE_TOKEN_DETAILS string = "DECODE_TOKEN_DETAILS"
+)
